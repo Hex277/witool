@@ -1,0 +1,7 @@
+*.cap
+*.csv
+*.kismet.*
+*.log.csv
+/tmp/
+witool_iface.tmp
+__pycache__/
