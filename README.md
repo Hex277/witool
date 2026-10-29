@@ -29,6 +29,7 @@ git clone [https://github.com/hex277/witool.git](https://github.com/hex277/witoo
 cd witool
 chmod +x witool.py
 sudo cp witool.py /usr/bin/witool
+```
 
 Disclaimer
 
