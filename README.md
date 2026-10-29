@@ -29,3 +29,7 @@ git clone [https://github.com/hex277/witool.git](https://github.com/hex277/witoo
 cd witool
 chmod +x witool.py
 sudo cp witool.py /usr/bin/witool
+
+Disclaimer
+
+This tool is created for educational and authorized security auditing purposes only. Unauthorized testing against networks you do not own or have explicit permission to test is illegal.
