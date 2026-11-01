@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "witool"
+version = "1.0.0"
+description = "A professional CLI-based wireless penetration testing tool for Linux"
+readme = "README.md"
+authors = [
+    { name = "Hex", email = "hexgroupaz@gmail.com" }
+]
+license = { text = "MIT" }
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: POSIX :: Linux",
+]
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/hex277/witool"
+
+[project.scripts]
+witool = "witool.main:main"

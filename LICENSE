@@ -1,0 +1,16 @@
+[project]
+name = "witool"
+version = "1.0.0"
+description = "A professional CLI-based wireless penetration testing tool for Linux"
+readme = "README.md"
+authors = [
+    { name = "Hex277", email = "hexgroupaz@gmail.com" }
+]
+
+license = "MIT"
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: POSIX :: Linux",
+]
+requires-python = ">=3.8"

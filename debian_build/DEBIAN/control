@@ -1,0 +1,9 @@
+Package: witool
+Version: 1.0.0
+Section: net
+Priority: optional
+Architecture: all
+Depends: python3, aircrack-ng, reaver
+Maintainer: Hex277 hexgroupaz@gmail.com
+Description: A professional CLI-based wireless penetration testing tool for Linux.
+  Automates monitor mode, WPS scanning, and EAPOL handshake capture.
