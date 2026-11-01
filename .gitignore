@@ -1,7 +1,7 @@
-*.cap
-*.csv
-*.kismet.*
-*.log.csv
-/tmp/
-witool_iface.tmp
 __pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+venv/
+*.deb
